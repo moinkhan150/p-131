@@ -1,0 +1,36 @@
+body
+{
+  background-size: cover;  
+  background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 15px 10px 10px lightskyblue;
+}
+.div_btn
+{
+ width: 25%;
+ height: 25%;
+ border-width: 10px;
+ border-color: lightgoldenrodyellow;
+}
+
+.room
+{
+  width: 7%;
+  height: 5%;
+  margin-left: 50%;
+}
